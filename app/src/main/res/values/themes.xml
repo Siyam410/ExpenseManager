@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExpenseManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="android:statusBarColor">@color/colorVeryDarkIndigo</item>
+        <item name="android:navigationBarColor">@color/colorVeryDarkIndigo</item>
+        <item name="android:windowBackground">@color/colorVeryDarkIndigo</item>
+    </style>
+
+    <style name="Theme.ExpenseManager" parent="Base.Theme.ExpenseManager" />
+
+    <style name="Theme.ExpenseManager.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_app_gradient</item>
+    </style>
+</resources>

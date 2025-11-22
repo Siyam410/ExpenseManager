@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme core colors -->
+    <color name="colorBrightPink">#FF2F66</color>
+    <color name="colorDeepMaroon">#8B1430</color>
+    <color name="colorDarkPlum">#4A0E25</color>
+    <color name="colorVeryDarkIndigo">#1A0B2E</color>
+
+    <!-- Semantic aliases for Material theme -->
+    <color name="colorPrimary">@color/colorBrightPink</color>
+    <color name="colorPrimaryVariant">@color/colorDeepMaroon</color>
+    <color name="colorSecondary">@color/colorDarkPlum</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+    <color name="colorBackground">@color/colorVeryDarkIndigo</color>
+    <color name="colorSurface">#FF1F1528</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="expenseColor">#FF6D6D</color>
+    <color name="incomeColor">#66FF8D</color>
+
+    <!-- Navbar color -->
+    <color name="lightBlue">#87CEEB</color>
+</resources>
